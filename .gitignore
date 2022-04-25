@@ -1,0 +1,4 @@
+# Project exclude paths
+/File/target/
+/Multithreading/target/
+/out/
