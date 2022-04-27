@@ -6,6 +6,9 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/File/pom.xml" />
         <option value="$PROJECT_DIR$/Multithreading/pom.xml" />
+        <option value="$PROJECT_DIR$/Reflection/pom.xml" />
+        <option value="$PROJECT_DIR$/Annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/Design_Pattern/pom.xml" />
       </list>
     </option>
   </component>
