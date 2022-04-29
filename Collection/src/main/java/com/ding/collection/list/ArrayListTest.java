@@ -1,7 +1,6 @@
 package com.ding.collection.list;
 
-import org.junit.Test;
-
+import org.testng.annotations.Test;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;

@@ -1,7 +1,6 @@
 package com.ding.map;
 
-import org.junit.jupiter.api.Test;
-
+import org.testng.annotations.Test;
 import java.util.HashMap;
 import java.util.Map;
 
